@@ -25,7 +25,7 @@ Public claims are grounded in the [`icn`](https://github.com/InterCooperative-Ne
 
 ## Where things live
 
-- **Roadmap and current state:** [`docs/STATE.md`](https://github.com/InterCooperative-Network/icn/blob/main/docs/STATE.md), [`docs/PHASE_HISTORY.md`](https://github.com/InterCooperative-Network/icn/blob/main/docs/PHASE_HISTORY.md), [`docs/dev-journal/ROADMAP.md`](https://github.com/InterCooperative-Network/icn/blob/main/docs/dev-journal/ROADMAP.md). State files are bumped with every state-changing PR.
+- **Roadmap and current state:** [`docs/STATE.md`](https://github.com/InterCooperative-Network/icn/blob/main/docs/STATE.md), [`docs/PHASE_HISTORY.md`](https://github.com/InterCooperative-Network/icn/blob/main/docs/PHASE_HISTORY.md), the public roadmap at [intercooperative.network/roadmap](https://intercooperative.network/roadmap). State files are bumped with every state-changing PR.
 - **Architecture:** [`docs/ARCHITECTURE.md`](https://github.com/InterCooperative-Network/icn/blob/main/docs/ARCHITECTURE.md) and [`docs/architecture/`](https://github.com/InterCooperative-Network/icn/tree/main/docs/architecture).
 - **Cross-repo navigation:** [`docs/reference/project-index/repository-map.md`](https://github.com/InterCooperative-Network/icn/blob/main/docs/reference/project-index/repository-map.md).
 - **Public discussion:** [GitHub Discussions](https://github.com/InterCooperative-Network/icn/discussions). Conversation belongs in Discussions; decisions belong in issues, PRs, RFCs, and ADRs.
