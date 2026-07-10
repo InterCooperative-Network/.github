@@ -45,7 +45,7 @@ Report through [GitHub's private vulnerability advisory flow on `icn`](https://g
 
 ## What is not production-ready
 
-ICN is **pre-pilot**. The substrate has working kernel, identity, trust, gossip, ledger, governance, and gateway, deployed on a K3s cluster for live testing — but pilot deployment is the next phase, not a current capability. The [`docs/security/`](https://github.com/InterCooperative-Network/icn/tree/main/docs/security) directory and [`docs/STATE.md`](https://github.com/InterCooperative-Network/icn/blob/main/docs/STATE.md) are candid about which surfaces are hardened and which are still research-grade.
+ICN is **pre-pilot**. The substrate has working kernel, identity, trust, gossip, ledger, governance, and gateway (source-verified), with K3s deployment manifests and a local rehearsal-node demo path. A K3s cluster was used in earlier testing, but **ICN operations have not recently re-confirmed that the cluster is currently running or healthy** (see [`docs/status.toml`](https://github.com/InterCooperative-Network/icn/blob/main/docs/status.toml), which tags the live-cluster claim as needing ops re-confirmation) — and pilot deployment is the next phase, not a current capability. The [`docs/security/`](https://github.com/InterCooperative-Network/icn/tree/main/docs/security) directory and [`docs/STATE.md`](https://github.com/InterCooperative-Network/icn/blob/main/docs/STATE.md) are candid about which surfaces are hardened and which are still research-grade.
 
 Public claims on the website distinguish "What's Real Now" from direction. If you are evaluating ICN for an institutional use case, start there.
 
