@@ -62,7 +62,7 @@ Favor links to existing authoritative files rather than maintaining conflicting 
 - Establish NYCN's human-approved publication and code-custody policy: what is publishable, who may approve it, which records require consent, and who maintains the resulting public package.
 - Prepare a **clean public software release** from reviewed files on a fresh public repository/history or an approved code-only package; publish fictional fixtures, generic schemas, tests, safe architecture and setup instructions. Do not carry private Git history by default.
 - Preserve private operational sources, contact details, unpublished governing decisions, personal data, credentials, meeting transcripts, access tokens, non-public URLs, and private host topology. Test negative examples, including built/browser assets.
-- Integrate existing Organizer Home direction [NYCN #113](https://github.com/InterCooperative-Network/nycn/issues/113) and publication-discipline [PR #141](https://github.com/InterCooperative-Network/nycn/pull/141); neither proves public readiness or institutional adoption.
+- Coordinate with the existing NYCN Organizer Home direction and internal publication-discipline work, using reviewed public summaries where necessary; neither proves public readiness or institutional adoption.
 - Publish a fully fictional year/program example and one reproducible organizer workflow. Keep real-world assignments, approvals, and evidence behind human-reviewed authority boundaries.
 
 ## Safe launch sequence (gates, not calendar promises)
